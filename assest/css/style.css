@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+@font-face {
+    font-family: kam;
+    src: url(../fonts/AlexBrush-Regular.ttf);
+}
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+
+}
+.online{
+    font-family: 'Merriweather', serif;
+}
+.custom{
+    font-family: kam;
+}
